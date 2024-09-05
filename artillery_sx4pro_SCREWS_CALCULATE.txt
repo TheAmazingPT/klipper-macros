@@ -1,13 +1,13 @@
 [screws_tilt_adjust]
 # Screws tilt adjust config for Artillery Sidewinder X4 Pro
 # Coordinates are absolute coordinates where the probe is above the screws
-screw1: 39, 209
+screw1: 58, 189
 screw1_name: left rear screw
-screw2: 39, 39
+screw2: 58, 19
 screw2_name: left front screw
-screw3: 209, 209
+screw3: 229, 189
 screw3_name: right rear screw
-screw4: 209, 39
+screw4: 229, 19
 screw4_name: right front screw
 horizontal_move_z: 10
 speed: 120
